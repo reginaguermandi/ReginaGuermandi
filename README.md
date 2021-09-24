@@ -1,13 +1,13 @@
 # Regina Guermandi do Nascimento
 
- 👋 Hello!<br>
+ 👋 <b>Hello!</b><br>
     Currently I'm studying to become a web developer,just trying some code here and there.
   
 
 
   👀 I’m interested in learn some code languages.<br>
-  🌱 Currently learning HTML/CSS and JavaScript.<br>
-  💞️ Deep in love for Cats and Games (Cat Games too!) <br>
+  🌱 Currently learning <b>HTML/CSS</b> and <b>JavaScript</b>.<br>
+  💞️ Deep in love for Cats and Games <i>(Cat Games too!)</i> <br>
   📫 How to reach me [LinkedIn](www.linkedin.com/in/regina-guermandi-3a4a18221).
 
 <!---
