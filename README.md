@@ -8,7 +8,7 @@
   👀 I’m interested in learn some code languages.<br>
   🌱 Currently learning <b>HTML/CSS</b> and <b>JavaScript</b>.<br>
   💞️ Deep in love for Cats and Games <i>(Cat Games too!)</i> <br>
-  📫 How to reach me [LinkedIn](www.linkedin.com/in/regina-guermandi-3a4a18221).
+  
 
 <!---
 ReginaGuermandi/ReginaGuermandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
