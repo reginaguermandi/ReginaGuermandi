@@ -4,8 +4,6 @@
     Currently I'm studying to become a web developer,just trying some code here and there.
   
 
-
-  👀 I’m interested in learn some code languages.<br>
   🌱 Currently learning <b>HTML/CSS</b> and <b>JavaScript</b>.<br>
   💞️ Deep in love for Cats and Games <i>(Cat Games too!)</i> <br>
   
