@@ -1,13 +1,24 @@
-<h1 align="center">👋 Hello, I'm Regina G. Nascimento!</h1><br>
+# 👋 Hi, I'm Regina Guermandi do Nascimento!
 
-🌱 I'm a self-taught programmer on a journey to learn and grow in the world of software development. I'm passionate about coding and exploring new technologies.
+💻 **Backend Developer | Information Technology Student**
 
-📚 As a lifelong learner, I'm constantly seeking new resources and online courses to enhance my knowledge.
+I'm passionate about technology and focused on **web backend development**. I'm always looking to learn and grow, exploring technologies like **Node.js and relational databases**.
 
-🎓 I'm a self-taught student, and I'm dedicated to building a strong foundation in programming principles and best practices.
+🚀 **Main Technologies:**
+- **Languages:** JavaScript, TypeScript, SQL
+- **Frameworks:** NestJS, ExpressJS
+- **Databases:** MySQL, SQLite
+- **Tools:** Docker, Jest, Prisma, TypeORM
+- **Cloud:** AWS (currently learning)
 
-✉️ You can reach me via email at reginaguermandi@gmail.com . I'm open to any opportunities or discussions related to programming and learning.
+📌 **Currently working on:**
+- Developing APIs and backend systems
+- Studying **software architectures**
+- Cloud Computing concepts 
 
-Let's code and learn together! 😄
+📫 **Let's connect!**
+If you want to chat about technology, feel free to reach out!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaguermandi&layout=compact)
+🔗 **Find me here:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/reginaguermandi/)
+
